@@ -1,4 +1,6 @@
-## Hi im Matias Caraballo 👋 :argentina: 
+## Hi im Matias Caraballo 👋 
+An dev from Argentina :argentina: 🧉
+
 I'm enthusiastic about creating solutions with my knowledge about technology.
 📖 I consider my self an curious person, who is constantly improving his methods and skills to become an great full stack developer. 
 
@@ -13,6 +15,7 @@ I'm enthusiastic about creating solutions with my knowledge about technology.
   Javascript (React)
   
   C# (ASP .NET CORE)
+
 
   
  
