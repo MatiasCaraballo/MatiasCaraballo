@@ -6,7 +6,7 @@ I'm enthusiastic about creating solutions with my knowledge about technology.
 
 👐 I’m looking to collaborate on Backend, Frontend and Data Analysis projects 
 
-👨‍💻 Some of the languages/frameworks that i use are
+👨‍💻 Some of the languages/frameworks that i use are : 
 
  🐍 Python (FastAPI/Django/Pandas 🐼) 
  
